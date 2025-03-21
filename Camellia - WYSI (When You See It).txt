@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[VSRG] WYSI (When You See It)
+Artist = Camellia
+Album = U.U.F.O
+Year = 2021
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/qk8XZ3Vj
+Video Url = https://www.youtube.com/watch?v=1qBWa6dWBRk
+Video Length = 200
+Video Drum Offset = 1.225
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = song charted with REAL 727 bpm
+Experimental = y

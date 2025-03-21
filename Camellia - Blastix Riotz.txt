@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[VSRG] Blastix Riotz
+Artist = Camellia
+Album = SVGW (SOUND VOLTEX III GRAVITY WARS)
+Year = 2016
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/QgLhedu6
+Video Url = https://www.youtube.com/watch?v=-8qcGWz44sE
+Video Length = 128
+Video Drum Offset = 0.7
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = this could be harder...
+Experimental = y

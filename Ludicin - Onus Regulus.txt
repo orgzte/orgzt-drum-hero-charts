@@ -1,0 +1,23 @@
+// Info
+Name = Onus Rēgulus
+Artist = Ludicin
+Album = COEGTS2023 (COE 2023 Global Taiko Showdown NM2)
+Year = 2023
+Genre = Symphonic Metal
+Length (seconds) = 207
+
+// Chart
+Charted By = orangezite
+Chart Url = https://pastebin.com/raw/TWk9HezU
+Video Url = https://www.youtube.com/watch?v=SiqLa_fjH-E
+Video Drum Offset = 3.2
+
+// Difficulty
+Five Lane Drums = No
+Expert Drums = Yes
+Hard Drums = No
+Medium Drums = No
+Easy Drums = No
+
+// Mature (18+)
+Mature = No

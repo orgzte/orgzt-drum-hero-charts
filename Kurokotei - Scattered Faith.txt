@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[CATASTROPHIC TRUST] Scattered Faith
+Artist = Kurokotei
+Album = Single
+Year = 2016
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/2cmpXBfB
+Video Url = https://www.youtube.com/watch?v=c-pSpUK93tQ
+Video Length = 500
+Video Drum Offset = 0.4
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = galaxy collapse's twin, scattered faith. someone won 1000$ for beating this song in a rhythm game.
+Experimental = n

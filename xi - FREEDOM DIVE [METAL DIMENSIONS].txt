@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	FREEDOM DiVE [METAL†DIMENSIONS]
+Artist = xi remixed by cosMo@暴走P
+Album = Quietus Ray
+Year = 2024
+Genre = Metal
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/UR6QNeSY
+Video Url = https://www.youtube.com/watch?v=PcZDgK-N9PA
+Video Length = 205
+Video Drum Offset = 0.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = omg fredom dive (metal version) !!!!!
+Experimental = n

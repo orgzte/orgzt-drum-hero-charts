@@ -1,0 +1,23 @@
+// Info
+Name = Exitium
+Artist = Laur
+Album = WACCA
+Year = 2019
+Genre = Speedcore
+Length (seconds) = 140
+
+// Chart
+Charted By = orangezite
+Chart Url = https://pastebin.com/raw/3dRHSizN
+Video Url = https://www.youtube.com/watch?v=GnXA6T9eOGE
+Video Drum Offset = 0.15
+
+// Difficulty
+Five Lane Drums = No
+Expert Drums = Yes
+Hard Drums = No
+Medium Drums = No
+Easy Drums = No
+
+// Mature (18+)
+Mature = No

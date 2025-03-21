@@ -1,0 +1,23 @@
+// Info
+Name = Chocolate Lily
+Artist = Kobaryo
+Album = MIXPEED ACTION
+Year = 2021
+Genre = Speedcore
+Length (seconds) = 133
+
+// Chart
+Charted By = orangezite
+Chart Url = https://pastebin.com/raw/w435rzCx
+Video Url = https://www.youtube.com/watch?v=5ieBcolNKvI
+Video Drum Offset = 0.15
+
+// Difficulty
+Five Lane Drums = No
+Expert Drums = Yes
+Hard Drums = No
+Medium Drums = No
+Easy Drums = No
+
+// Mature (18+)
+Mature = No

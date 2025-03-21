@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
+Artist = Camellia
+Album = Blackmagik Blazing
+Year = 2019
+Genre = Multiple
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/0iUMizB4
+Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
+Video Length = 325
+Video Drum Offset = 1.55
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = a less unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Experimental = y

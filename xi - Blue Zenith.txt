@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	Blue Zenith
+Artist = xi
+Album = Parousia
+Year = 2018
+Genre = Electronic
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/zNLP3F9V
+Video Url = https://www.youtube.com/watch?v=vatcanQQJvQ
+Video Length = 260
+Video Drum Offset = 2.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = y
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = this song is playable, specially on medium, but difficult on expert (and omg 727 when you see it)
+Experimental = n

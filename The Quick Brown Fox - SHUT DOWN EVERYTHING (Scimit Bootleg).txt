@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	SHUT DOWN EVERYTHING (SCIMIT BOOTLEG)
+Artist = The Quick Brown Fox
+Album = SPEEDCORE 4 KIDS
+Year = 2023
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/benH8rc0
+Video Url = https://www.youtube.com/watch?v=jwmF-OBGcd4
+Video Length = 106
+Video Drum Offset = 2.1
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = i found this song on quaver and then my life was never the same. i don't regret anything tho
+Experimental = n

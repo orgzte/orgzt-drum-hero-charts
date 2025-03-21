@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[JOKE] Blue Zenith Freestyle
+Artist = Kariyu
+Album = idfk lmao
+Year = 2021
+Genre = Hip Hop
+Age Restrict = y
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/kNYNYmvv
+Video Url = https://www.youtube.com/watch?v=Nh_vo9H8x9w
+Video Length = 29
+Video Drum Offset = 0.5
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = WE GETTING 727PP WITH THIS ONE 👤👤👤👤👤👤🔥🔥🔥🔥🔥🔥🔥🔥
+Experimental = n

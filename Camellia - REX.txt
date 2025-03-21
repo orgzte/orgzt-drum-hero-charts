@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[OVERCHART] [VSRG] REX
+Artist = Camellia
+Album = REX
+Year = 2024
+Genre = Multiple
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/UV8wJ0GL
+Video Url = https://www.youtube.com/watch?v=iwfui1__Ceo
+Video Length = 337
+Video Drum Offset = 1.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = this is pretty much what i *normally* chart in osu!mania, overchart + vsrg means that i charted it like a actual vsrg chart instead of a vsrg style chart
+Experimental = y

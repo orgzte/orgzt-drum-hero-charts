@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	Get a Gatling Bomber
+Artist = QURELESS
+Album = I Am Dreamer!!!
+Year = 2021
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/8SpK9hUH
+Video Url = https://www.youtube.com/watch?v=QBDmdA2pMvk
+Video Length = 50
+Video Drum Offset = 23
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = y
+Medium Drums = y
+Easy Drums = y
+
+// OTHER ----------------------------------------------------------------------
+Comment = probably the shortest song (and also maybe the song with the highest offset)
+Experimental = n

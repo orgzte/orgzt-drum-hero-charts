@@ -1,0 +1,23 @@
+// Info
+Name = Possessed By The Blood Moon
+Artist = Reek
+Album = the Blood Moon Saga
+Year = 2019
+Genre = Hardcore
+Length (seconds) = 260
+
+// Chart
+Charted By = orangezite
+Chart Url = https://pastebin.com/raw/rRGjnSLg
+Video Url = https://www.youtube.com/watch?v=0MkV_3a2y2Q
+Video Drum Offset = 4.7
+
+// Difficulty
+Five Lane Drums = No
+Expert Drums = Yes
+Hard Drums = No
+Medium Drums = No
+Easy Drums = No
+
+// Mature (18+)
+Mature = No

@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[VSRG] Rave Girls
+Artist = The Quick Brown Fox
+Album = SPEEDCORE 4 KIDS
+Year = 2014
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/R19VydPp
+Video Url = https://www.youtube.com/watch?v=Q7Etdmy1eHM
+Video Length = 133
+Video Drum Offset = 1
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = omg lapfox!!!11! (i told my friend to pick a song for me to chart out of my chart list and they chose this)
+Experimental = y
