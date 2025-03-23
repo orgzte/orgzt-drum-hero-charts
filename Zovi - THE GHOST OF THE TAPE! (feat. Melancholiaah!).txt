@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[HAUNTED] THE GHOST OF THE TAPE!
+Artist = Zovi (feat. Melancholiaah!)
+Album = PURPLE SPEEDCORE TAPE
+Year = 2021
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/pKm03wuN
+Video Url = https://www.youtube.com/watch?v=9ZMVFtutcpA
+Video Length = 281
+Video Drum Offset = 9.8 
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = this song will def mess with the player's head (like it did with mine), prolly the craziest song i've charted so far (not in terms of difficulty)
+Experimental = y

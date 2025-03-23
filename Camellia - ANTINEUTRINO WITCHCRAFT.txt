@@ -1,0 +1,30 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite & schlaefrige.
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[VSRG] [BLACKMAGIC] ANTINEUTRINO WITCHCRAFT
+Artist = Camellia
+Album = EGCS2023 Grand Finals Tiebreaker
+Year = 2023
+Genre = Quantum Sorcery
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/TMqAVhFY
+Video Url = https://www.youtube.com/watch?v=BQS57GsE7UQ
+Video Length = 382
+Video Drum Offset = 2.15
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = Catch the uncatchable, wield the enchanted power of the unseen quantum.
+// LITERALLY THE HARDEST CHART SO FAR. this song took WAY too long to chart too.
+Experimental = y 
+//DO NOT LET THIS SONG NEAR VR PLAYERS

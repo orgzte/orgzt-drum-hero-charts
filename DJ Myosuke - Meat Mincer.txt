@@ -1,0 +1,30 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	Meat Mincer
+Artist = DJ Myosuke
+Album = IRREGULAR NATION 7
+Year = 2021
+Genre = Hardcore Techno
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/M5Cf6JcQ
+Video Url = https://www.youtube.com/watch?v=0mwxOmoiXfc
+Video Length = 249
+Video Drum Offset = 2.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = y
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = "feel the- feel- feel- the power" moment
+anyways this is for the ones (no one) who thought chordjacks in drums wouldn't be possible
+hard is more recommended than expert
+Experimental = y

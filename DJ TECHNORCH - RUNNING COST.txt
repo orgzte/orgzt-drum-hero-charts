@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	RUNNING COST
+Artist = DJ TECHNORCH
+Album = ~ RUNNING COST ~
+Year = 2017
+Genre = Hardcore Techno
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/W5Xh4FDZ
+Video Url = https://www.youtube.com/watch?v=_TqI6RZz-y0
+Video Length = 302
+Video Drum Offset = 0.8
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = this song is such a banger, i've always wanted to chart it
+Experimental = y

@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	)-@1<vz@
+Artist = QURELESS
+Album = Single
+Year = 2017
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/AG7Vf75V
+Video Url = https://www.youtube.com/watch?v=7_GFxzIVbic
+Video Length = 132
+Video Drum Offset = 5.1
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = it took me 10 entire minutes to find the bpm of this song, just so it ends up being 252 with the offset being 12620.
+Experimental = y

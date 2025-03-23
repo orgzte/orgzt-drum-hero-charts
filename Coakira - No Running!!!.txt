@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	No Running!!!
+Artist = Coakira
+Album = Far East Insurrection
+Year = 2018
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/Muicu0A6
+Video Url = https://www.youtube.com/watch?v=mZxxOoK_gyo
+Video Length = 160
+Video Drum Offset = 9.5
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = criminally underrated
+Experimental = y
