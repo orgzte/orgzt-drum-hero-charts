@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	11Eleven
+Artist = DJ SHARPNEL
+Album = Otaku Overclocks 21
+Year = 2009
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/51eA54nK
+Video Url = https://www.youtube.com/watch?v=1qmmoQKJjVE
+Video Length = 263
+Video Drum Offset = 0.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = challenge song
+Experimental = n

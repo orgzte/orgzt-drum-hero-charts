@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	POWA OF DA WILDANES
+Artist = Camellia
+Album = INVAIDAS FROM DA JUNGLE
+Year = 2017
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/MWy8XHFL
+Video Url = https://www.youtube.com/watch?v=MpIgGUV4dL8
+Video Length = 333
+Video Drum Offset = 8.499
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = THIS IS THE POWA OF DA WILDANES!!!
+Experimental = y

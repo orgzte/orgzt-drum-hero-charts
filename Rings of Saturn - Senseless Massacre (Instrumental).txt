@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	Senseless Massacre (Instrumental)
+Artist = Rings of Saturn
+Album = Lugal Ki En
+Year = 2020
+Genre = Death Metal
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/ecgRaLMD
+Video Url = https://www.youtube.com/watch?v=aXfW8mYiyRg
+Video Length = 214
+Video Drum Offset = 1.35
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = commissioned by Angel
+Experimental = n

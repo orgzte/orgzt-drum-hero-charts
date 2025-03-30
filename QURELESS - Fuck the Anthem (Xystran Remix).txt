@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	Fuck the Anthem (Xystran Remix)
+Artist = QURELESS
+Album = The Psycho Remixes
+Year = 2021
+Genre = Speedcore
+Age Restrict = y
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/ESc3GUxy
+Video Url = https://www.youtube.com/watch?v=43JO8A6DAoA
+Video Length = 155
+Video Drum Offset = 0.25
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = ts hard asf (and for some reason i felt like singing peanut butter jelly time while writing this submission)
+Experimental = y

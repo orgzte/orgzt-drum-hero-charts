@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	BIG SHOT (Camellia Remix)
+Artist = Toby Fox
+Album = Single
+Year = 2021
+Genre = Spamcore 
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/xLdCts7q
+Video Url = https://www.youtube.com/watch?v=o1OMXNJ9mHM
+Video Length = 292
+Video Drum Offset = 6.96
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = NOW IT'S [[YOUR]] CHANCE TO BE A [[BIG SHOT]]
+Experimental = y

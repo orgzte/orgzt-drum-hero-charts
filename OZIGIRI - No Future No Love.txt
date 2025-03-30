@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	No Future No Love
+Artist = OZIGIRI
+Album = The Psycho Blast Vol 1
+Year = 2017
+Genre = Speedcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/1ab25Kib
+Video Url = https://www.youtube.com/watch?v=zutPTiFyTsg
+Video Length = 192
+Video Drum Offset = 2.35
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = the name of this song explains very well the entirety of my life
+Experimental = y

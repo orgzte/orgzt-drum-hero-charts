@@ -1,0 +1,30 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By =  orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[実行] Noise Of Yandere
+Artist = DJKurara
+Album = Single
+Year = 2021
+Genre = Speedcore
+Age Restrict = y
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/WYwLvSh0
+Video Url = https://www.youtube.com/watch?v=V_Kigm3hry0
+Video Length = 236
+Video Drum Offset = 14
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = 身体を縛って監禁しようか　手錠を掛けて動けなくしようか
+// 脚を切り落とせば動けないね　鋸で切り取っちゃおっかなあ？
+// 貴方の全てが欲しい欲しいのよ　貴方以外のモノは要らないよ . . .
+Experimental = y

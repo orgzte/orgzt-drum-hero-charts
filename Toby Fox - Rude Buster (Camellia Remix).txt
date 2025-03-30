@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[BEST FRIENDS] Rude Buster 
+Artist = Toby Fox (Camellia Remix)
+Album = Deltarune
+Year = 2020
+Genre = Deltacore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/Y50uf8c4
+Video Url = https://www.youtube.com/watch?v=lCwVr2s-pF0
+Video Length = 352
+Video Drum Offset = 3.128
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = Are you there? Are we connected?
+Experimental = y

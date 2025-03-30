@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = orangezite
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[DANGEROUS] Beast Mode
+Artist = Round Wave Crusher
+Album = Brainwash
+Year = 2015
+Genre = Frenchcore
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/Kd6MrZkG
+Video Url = https://www.youtube.com/watch?v=wnjfjWTSfWo
+Video Length = 288
+Video Drum Offset = 3.475
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = IT'S TOO DANGEROUS!
+Experimental = y

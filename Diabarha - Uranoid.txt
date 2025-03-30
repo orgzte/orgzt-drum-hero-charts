@@ -1,0 +1,28 @@
+// BASIC INFO ----------------------------------------------------------------- 
+Submitted By = orangezite
+Charted By = Chezy
+
+// SONG DETAILS ---------------------------------------------------------------
+Name =	[JOKE] Uranoid
+Artist = Diabarha
+Album = Single
+Year = 2010
+Genre = Extratone
+Age Restrict = n
+
+// CHART INFO -----------------------------------------------------------------
+Chart Url = https://pastebin.com/raw/BNuQRZPM
+Video Url = https://www.youtube.com/watch?v=8RAYlykjQrw
+Video Length = 313
+Video Drum Offset = 0.2
+
+// DIFFICULTY -----------------------------------------------------------------
+Five Lane Drums = n
+Expert Drums = y
+Hard Drums = n
+Medium Drums = n
+Easy Drums = n
+
+// OTHER ----------------------------------------------------------------------
+Comment = might crash someone's game lmfao
+Experimental = y
