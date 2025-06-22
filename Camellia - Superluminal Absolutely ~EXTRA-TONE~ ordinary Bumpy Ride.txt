@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
+Name =	Superluminal Absolutely EXTRA-TONE-ordinary "Bumpy Ride"
 Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
+Album = 1000 OVER!!!
+Year = 2020
+Genre = Extratone
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/wuqJg4kb
+Video Url = https://www.youtube.com/watch?v=thih9zLXBLg
+Video Length = 240
+Video Drum Offset = 0.3
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = fun fact: the original name of this song would literally go over the already expanded song title character limit. (the full name being "Superluminal Absolutely EXTRA-TONE-ordinary "Bumpy Ride" (Shredding Whole Your Belonging Space-Time System At The Speed of 1,600 Times the C_0)")
 Experimental = y

@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
+Name =	Two Hour Testament
+Artist = ExileLord
+Album = Single
+Year = 2017
+Genre = Pain & Suffering
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://gist.githubusercontent.com/orgzte/9ad319af2baa3172d7b853a9fbbf338c/raw/eb5589ba04832610dcd5a227330c7fe4d7f8e852/gistfile1.txt
+Video Url = https://www.youtube.com/watch?v=FQn2eYNkc2c
+Video Length = 7810
+Video Drum Offset = 1.895
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = chart was so big i had to do it on gist LMAO
 Experimental = y

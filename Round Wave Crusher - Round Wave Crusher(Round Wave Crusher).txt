@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
-Age Restrict = n
+Name =	Round Wave Crusher (Round Wave Crusher)
+Artist = Round Wave Crusher
+Album = Round Wave Crusher
+Year = Round Wave Crusher
+Genre = Round Wave Crusher
+Age Restrict = y
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = [Round Wave Crusher](blahblah pastebin link here)
+Video Url = [Round Wave Crusher](https://www.youtube.com/watch?v=3XACIRWJYao)
+Video Length = Round Wave Crusher
+Video Drum Offset = 0.15
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = Round Wave Crusher
 Experimental = y

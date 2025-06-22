@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
+Name =	Cobratop
+Artist = m1dy
+Album = Compilation Works
+Year = 2018
+Genre = Speedcore
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/F4G5C5Y4
+Video Url = https://www.youtube.com/watch?v=jTXH2w7kC_U
+Video Length = 96
+Video Drum Offset = 0.96
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = sfsd
 Experimental = y

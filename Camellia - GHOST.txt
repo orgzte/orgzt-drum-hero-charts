@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
+Name =	GHOST
 Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
+Album = Cyphisonia E.P.
+Year = 2018
 Genre = Multiple
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/ukjbCBNV
+Video Url = https://www.youtube.com/watch?v=OjbjZcBctuM
+Video Length = 349
+Video Drum Offset = 10.5
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = cebeuq gib yarx gib cebeuq gib aidni gib flog gib evif rotciv gib uluz oemor olik atled gib hsals ohce ovarb tod mrofinu ognat mrofinu racso eeknay
 Experimental = y

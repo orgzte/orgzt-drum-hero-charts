@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
-Age Restrict = n
+Name =	Banned Forever
+Artist = Renard
+Album = Because Maybe!
+Year = 2010
+Genre = Breakcore
+Age Restrict = y
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/X6D9K5Pb
+Video Url = https://www.youtube.com/watch?v=T7ej4VETqPg
+Video Length = 98
+Video Drum Offset = 0.1
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
-Experimental = y
+Comment = sdkjsdkjsdjksdjksdjksdjksjkdsjkdjksdjksdjksdjksdjkdsjksdjksdjksdkj
+Experimental = n

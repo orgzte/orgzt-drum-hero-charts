@@ -3,26 +3,26 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
+Name =	[VSRG] Nijuu (Extended 甘 Version)
+Artist = DJ TECHNORCH
+Album = Single
+Year = 2014
+Genre = 廿
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/HQnHJPDT
+Video Url = https://www.youtube.com/watch?v=VMZOGPNULoE
+Video Length = 370
+Video Drum Offset = 62.049
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
 Expert Drums = y
-Hard Drums = y
+Hard Drums = n
 Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = nijuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 Experimental = y

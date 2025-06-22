@@ -3,18 +3,18 @@ Submitted By = orangezite
 Charted By = orangezite
 
 // SONG DETAILS ---------------------------------------------------------------
-Name =	[VSRG] We Could Get More Machine Gun Psystyle! (And More Genre Switches!)
-Artist = Camellia
-Album = Blackmagik Blazing
-Year = 2019
-Genre = Multiple
+Name =	Glory of Fighters
+Artist = RoughSkreamz
+Album = Single
+Year = 2023
+Genre = Speedcore
 Age Restrict = n
 
 // CHART INFO -----------------------------------------------------------------
-Chart Url = https://pastebin.com/raw/0iUMizB4
-Video Url = https://www.youtube.com/watch?v=Rp8uQzSXXRc
-Video Length = 325
-Video Drum Offset = 1.55
+Chart Url = https://pastebin.com/raw/AhvCSyTZ
+Video Url = https://www.youtube.com/watch?v=8B4at5FvhtI
+Video Length = 120
+Video Drum Offset = 1
 
 // DIFFICULTY -----------------------------------------------------------------
 Five Lane Drums = n
@@ -24,5 +24,5 @@ Medium Drums = n
 Easy Drums = n
 
 // OTHER ----------------------------------------------------------------------
-Comment = a MORE unforgiving chart of a song i absolutely love (but im still unsure if its fc-able lol)
+Comment = ONCE AGAIN, KEEP THE CHAIN!
 Experimental = y
